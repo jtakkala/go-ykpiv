@@ -35,7 +35,7 @@ import (
 
 	"golang.org/x/crypto/pbkdf2"
 
-	"pault.ag/go/ykpiv/internal/bytearray"
+	"github.com/jtakkala/go-ykpiv/internal/bytearray"
 )
 
 var (

@@ -36,7 +36,7 @@ import (
 
 	"crypto"
 
-	"pault.ag/go/ykpiv/internal/pkcs1v15"
+	"github.com/jtakkala/go-ykpiv/internal/pkcs1v15"
 )
 
 // Decrypt decrypts ciphertext with the private key backing the Slot we're operating

@@ -42,7 +42,7 @@ import (
 	"crypto/x509"
 	"crypto/x509/pkix"
 
-	"pault.ag/go/ykpiv"
+	"github.com/jtakkala/go-ykpiv"
 )
 
 func isok(t *testing.T, err error) {
